@@ -1,0 +1,7 @@
+c:\Users\Suan\CommandAPISolution\src\CommandAPI\bin\Debug\net7.0\linux-x64\publish\CommandAPI
+c:\Users\Suan\CommandAPISolution\src\CommandAPI\bin\Debug\net7.0\linux-x64\publish\appsettings.Development.json
+c:\Users\Suan\CommandAPISolution\src\CommandAPI\bin\Debug\net7.0\linux-x64\publish\appsettings.json
+c:\Users\Suan\CommandAPISolution\src\CommandAPI\bin\Debug\net7.0\linux-x64\publish\CommandAPI.dll
+c:\Users\Suan\CommandAPISolution\src\CommandAPI\bin\Debug\net7.0\linux-x64\publish\CommandAPI.deps.json
+c:\Users\Suan\CommandAPISolution\src\CommandAPI\bin\Debug\net7.0\linux-x64\publish\CommandAPI.runtimeconfig.json
+c:\Users\Suan\CommandAPISolution\src\CommandAPI\bin\Debug\net7.0\linux-x64\publish\CommandAPI.pdb
